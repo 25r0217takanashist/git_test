@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
-body{
+body {
   background: #000;
+}
+h1, p {
+  color: #fff;
 }
